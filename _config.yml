@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+
+logo: ./logo.png
+description: > 
+  Engineering Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  Nam et lorem quis massa porta dapibus eget quis nunc. 
+  Duis vel erat sit amet ante gravida condimentum eu pretium nisi. 
+  Vivamus magna turpis, varius quis volutpat ut, blandit vitae diam. Mauris eu aliquam risus.
+  <a href='https://raymondminglee.github.io/'>Back to homepage</a>
