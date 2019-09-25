@@ -1,5 +1,4 @@
-theme: jekyll-theme-minimal
-
+remote_theme: http[s]://github.<Enterprise>.com/benbalter/retlab
 logo: ./logo.png
 description: > 
   Engineering Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
