@@ -6,3 +6,5 @@ description: >
   Duis vel erat sit amet ante gravida condimentum eu pretium nisi. 
   Vivamus magna turpis, varius quis volutpat ut, blandit vitae diam. Mauris eu aliquam risus.
   <a href='https://raymondminglee.github.io/'>Back to homepage</a>
+
+theme: jekyll-theme-minimal
