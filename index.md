@@ -48,6 +48,11 @@ The product has a detachable head and replaceable so that it can be inserted int
 
 <img src="pic/dehead.png?raw=true"/>
 
+A video demo of the detachable head
+
+[<img src="pic/headdemo.png?raw=true"/>](https://www.youtube.com/watch?v=nRdGWxxjSSk)
+
+
 ## Testing on Material and Strength
 ---
 In our current prototype, the rods are made of brass, which have a relatively low yield strength. We desired our final product to be made of carbon steel or hardened stainless steel, to make the product stronger.  
