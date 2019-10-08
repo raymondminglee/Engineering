@@ -60,8 +60,14 @@ We also did a tip-loading test for the 0.8 mm diameter carbon steel rods. On ave
 ## 2 Sizes
 Our product comes in two sizes. The regular one has rods with smaller diameter than the large one. We are designing for commonly used household screws. Which are size 6 to size ¼ in. and our regular one is perfect for all. It is convenient and portable, and can be used in an -in-a-pinch situation.  
 The large size has a more focused size range, from size 10 to size ¼, but it can exert more torque and has a longer lifetime than the regular one. It is suitable for situations such as occasional furniture assembly.  
- 
+
 <img src="pic/size.png?raw=true"/>
+
+---
+## Patent Drawing and Intellectual Property
+Here are some of our patent drawing showing the detail of our design
+
+Mingyang Lee and Yueyue Li are the co-inventors of this invention, and the intellectual property is protected under the provisional patent application (U.S.62358445). 		 	
 
 
 
