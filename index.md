@@ -22,6 +22,9 @@ The uniqueness of the screwdriver lies in its head, which consists of many sprin
 This concept of thin rods morphed to the shape of screw cavity is proven feasible through many iterations of prototypes. Our most recent prototype uses bundle of retractable probe pins that are available on the market at a relatively low price. This prototype successfully turns screws with phillips head, slotted, allen, torx etc. 
 <img src="pic/currentp.png?raw=true"/>
 
+Here is a drawing for the probe pin we use
+<img src="pic/pin.png?raw=true"/>
+
 __For video demo, Please click [here]__
 
 
