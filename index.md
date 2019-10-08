@@ -80,7 +80,11 @@ The large size has a more focused size range, from size 10 to size ¼, but it ca
 
 Here are some of our patent drawing showing the detail of our design
 
-Mingyang Lee and Yueyue Li are the co-inventors of this invention, and the intellectual property is protected under the provisional patent application (U.S.62358445). 		 	
+<img src="pic/P1.png?raw=true"/>
+
+<img src="pic/P2.png?raw=true"/>
+
+*Mingyang Lee and Yueyue Li are the co-inventors of this invention, and the intellectual property is protected under the provisional patent application (U.S.62358445).*		 	
 
 
 
