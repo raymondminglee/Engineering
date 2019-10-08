@@ -10,13 +10,13 @@ Conventional screwdrivers are used only for screws of one type and one size, thu
 
 __There are just too many types of screw heads__  
 <img src="pic/screws.png?raw=true"/>
-
+<br><br>
 
 ## Our Inventin
 
 Our invention is a universal screwdriver that can turn all common screws. It is in the form of a keychain attachment. It is with you any time and it fits any shape. it is perfect to use for an in a pinch situation such as changing the battery of your child's toy.  
 <img src="pic/keychain.png?raw=true"/>
-
+<br><br>
 
 ## How it works
 
@@ -25,7 +25,7 @@ The uniqueness of the screwdriver lies in its head, which consists of many sprin
 <img src="pic/drawings.png?raw=true"/>  
 
 <img src="pic/demogif.gif?raw=true"/>
-
+<br><br>
 
 ## Current Prototype
 
@@ -38,14 +38,14 @@ Here is a drawing for the probe pin we use
 
 __Here is the video demo__
 [<img src="pic/video.png?raw=true"/>](https://www.youtube.com/watch?v=tQ1UfTsbZYw)
-
+<br><br>
 
 ## Design Feature 1
 
 Since we were designing for a range of sizes, if the screwdriver cross section is larger than the screw head, some rods may stick out and scratch the surface of the workpiece when it gets to the end. Thus we made our product to have a __“V shape”__ design, having the outside rods shorter than the inside ones.  
 
 <img src="pic/vshape.png?raw=true"/>
-
+<br><br>
 
 ## Design Feature 2
 
@@ -56,7 +56,7 @@ The product has a detachable head and replaceable so that it can be inserted int
 A video demo of the detachable head
 
 [<img src="pic/headdemo.png?raw=true"/>](https://www.youtube.com/watch?v=nRdGWxxjSSk)
-
+<br><br>
 
 ## Testing on Material and Strength
 
@@ -66,7 +66,7 @@ In our current prototype, the rods are made of brass, which have a relatively lo
 
 We have tested with thin rods made from carbon steel. The diameter of the rods is 0.8 mm.  
 We also did a tip-loading test for the 0.8 mm diameter carbon steel rods. On average, the yielding point with an effective length of 1/8'' is 3 lb. We have more than 50 rods bonded together in our prototype, and on average, for a size 10 screw philips head, more than 10 rods get inserted in the cavity and dissipated the load together.  
-
+<br><br>
 
 ## 2 Sizes
 
@@ -74,7 +74,7 @@ Our product comes in two sizes. The regular one has rods with smaller diameter t
 The large size has a more focused size range, from size 10 to size ¼, but it can exert more torque and has a longer lifetime than the regular one. It is suitable for situations such as occasional furniture assembly.  
 
 <img src="pic/size.png?raw=true"/>
-
+<br><br>
 
 ## Patent Drawing and Intellectual Property
 
