@@ -1,10 +1,11 @@
 
 logo: ./logo.png
 description: > 
-  Engineering Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-  Nam et lorem quis massa porta dapibus eget quis nunc. 
-  Duis vel erat sit amet ante gravida condimentum eu pretium nisi. 
-  Vivamus magna turpis, varius quis volutpat ut, blandit vitae diam. Mauris eu aliquam risus.
-  <a href='https://raymondminglee.github.io/'>Back to homepage</a>
+  Invention Factory is an intensive summer program for Cooper Union 
+  undergraduate engineering students. In 2015, we presented the prototype of our
+  design of a universal screwsriver nammed Push and Twist. Our design won second place of 
+  that year's invention factory and recived a $3000 cash reward.
+  <a href='https://raymondminglee.github.io/'> 
+  Back to homepage</a>
 
 theme: jekyll-theme-minimal
