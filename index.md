@@ -66,7 +66,7 @@ In our current prototype, the rods are made of brass, which have a relatively lo
 
 We have tested with thin rods made from carbon steel. The diameter of the rods is 0.8 mm.  
 We also did a tip-loading test for the 0.8 mm diameter carbon steel rods. On average, the yielding point with an effective length of 1/8'' is 3 lb. We have more than 50 rods bonded together in our prototype, and on average, for a size 10 screw philips head, more than 10 rods get inserted in the cavity and dissipated the load together.  
-<br><br>
+
 
 ## 2 Sizes
 
